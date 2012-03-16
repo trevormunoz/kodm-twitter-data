@@ -1,0 +1,2718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US"
+    xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom"
+    xmlns:twitter="http://api.twitter.com/" xmlns:georss="http://www.georss.org/georss">
+    <id>tag:search.twitter.com,2005:search/#kodm since:2012-03-14T22:38:38Z</id>
+    <link type="text/html"
+        href="http://search.twitter.com/search?q=%23kodm+since%3A2012-03-14T22%3A38%3A38Z"
+        rel="alternate"/>
+    <link type="application/atom+xml"
+        href="http://search.twitter.com/search.atom?q=%23kodm+since%3A2012-03-14T22%3A38%3A38Z"
+        rel="self"/>
+    <title>#kodm since:2012-03-14T22:38:38Z - Twitter Search</title>
+    <link type="application/opensearchdescription+xml" href="http://twitter.com/opensearch.xml"
+        rel="search"/>
+    <link type="application/atom+xml"
+        href="http://search.twitter.com/search.atom?since_id=180410906566590467&amp;q=%23kodm%20since%3A2012-03-14T22%3A38%3A38Z"
+        rel="refresh"/>
+    <updated>2012-03-15T16:21:26Z</updated>
+    <openSearch:itemsPerPage>100</openSearch:itemsPerPage>
+    <link type="application/atom+xml"
+        href="http://search.twitter.com/search.atom?page=1&amp;max_id=180410906566590467&amp;q=%23kodm%20since%3A2012-03-14T22%3A38%3A38Z&amp;rpp=100"
+        rel="previous"/>
+    <link type="application/atom+xml"
+        href="http://search.twitter.com/search.atom?page=3&amp;max_id=180410906566590467&amp;q=%23kodm%20since%3A2012-03-14T22%3A38%3A38Z&amp;rpp=100"
+        rel="next"/>
+    <entry>
+        <id>tag:search.twitter.com,2005:180327859137679362</id>
+        <published>2012-03-15T16:21:26Z</published>
+        <link type="text/html" href="http://twitter.com/mandellc/statuses/180327859137679362"
+            rel="alternate"/>
+        <title>#kodm the way that data modeling opens up knew forms of scholarship isn't known yet,
+            that we have to do the modeling on the faith</title>
+        <content type="html">&lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt; the way that data modeling opens
+            up knew forms of scholarship isn't known yet, that we have to do the modeling on the
+            faith</content>
+        <updated>2012-03-15T16:21:26Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1209009985/Photo_on_2011-01-07_at_01.10_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>mandellc (Laura Mandell)</name>
+            <uri>http://twitter.com/mandellc</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180327100362928129</id>
+        <published>2012-03-15T16:18:25Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180327100362928129"
+            rel="alternate"/>
+        <title>MT @knoxdw: .@sramsay asks: why bother with data modeling in TEI if you just want a
+            scholarly conversation about Frankenstein? #kodm</title>
+        <content type="html">MT @&lt;a class=" "
+            href="http://twitter.com/knoxdw"&gt;knoxdw&lt;/a&gt;: .@&lt;a class=" "
+            href="http://twitter.com/sramsay"&gt;sramsay&lt;/a&gt; asks: why bother with data
+            modeling in TEI if you just want a scholarly conversation about Frankenstein?
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T16:18:25Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180326494269210625</id>
+        <published>2012-03-15T16:16:01Z</published>
+        <link type="text/html" href="http://twitter.com/knoxdw/statuses/180326494269210625"
+            rel="alternate"/>
+        <title>.@sramsay asks skeptically: why bother with data modeling in TEI if you just want a
+            scholarly conversation about Frankenstein? #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/sramsay"&gt;sramsay&lt;/a&gt; asks skeptically: why bother with
+            data modeling in TEI if you just want a scholarly conversation about Frankenstein?
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T16:16:01Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/285466632/Doug_photo_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>knoxdw (Douglas Knox)</name>
+            <uri>http://twitter.com/knoxdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180325349912092672</id>
+        <published>2012-03-15T16:11:28Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180325349912092672"
+            rel="alternate"/>
+        <title>RT @brownwwp: Remember you can join "data modeling in the humanities" conference live
+            via http://t.co/TFZjVbVN and on twitter #kodm</title>
+        <content type="html">RT @&lt;a class=" "
+            href="http://twitter.com/brownwwp"&gt;brownwwp&lt;/a&gt;: Remember you can join "data
+            modeling in the humanities" conference live via &lt;a
+            href="http://t.co/TFZjVbVN"&gt;http://t.co/TFZjVbVN&lt;/a&gt; and on twitter
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T16:11:28Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180325307222470656</id>
+        <published>2012-03-15T16:11:18Z</published>
+        <link type="text/html" href="http://twitter.com/brownwwp/statuses/180325307222470656"
+            rel="alternate"/>
+        <title>Remember you can join "data modeling in the humanities" conference live via
+            http://t.co/Pa3EEO4q and on twitter #kodm</title>
+        <content type="html">Remember you can join "data modeling in the humanities" conference live
+            via &lt;a href="http://t.co/Pa3EEO4q"&gt;http://t.co/Pa3EEO4q&lt;/a&gt; and on twitter
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T16:11:18Z</updated>
+        <link type="image/png" href="http://a0.twimg.com/profile_images/1148947978/logo_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>brownwwp (Brown WWP)</name>
+            <uri>http://twitter.com/brownwwp</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180325182265765888</id>
+        <published>2012-03-15T16:10:48Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180325182265765888"
+            rel="alternate"/>
+        <title>@julia_flanders documenting the data is one of the essential scholarly components of
+            #digitalhumanities #kodm</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/julia_flanders"&gt;julia_flanders&lt;/a&gt; documenting the
+            data is one of the essential scholarly components of &lt;a
+            href="http://search.twitter.com/search?q=%23digitalhumanities"
+            title="#digitalhumanities" class=" "&gt;#digitalhumanities&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T16:10:48Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180325137248288769</id>
+        <published>2012-03-15T16:10:37Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180325137248288769"
+            rel="alternate"/>
+        <title>.@trevormunoz The proof of the pudding is that it's delicious. Int. in projects that
+            have a broad audience. #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; The proof of the pudding
+            is that it's delicious. Int. in projects that have a broad audience. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T16:10:37Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180325127181975552</id>
+        <published>2012-03-15T16:10:35Z</published>
+        <link type="text/html" href="http://twitter.com/swanstro/statuses/180325127181975552"
+            rel="alternate"/>
+        <title>#kodm @julia_flanders asks where the scholarship occurs in digital scholarship -- a
+            hugely important question with many possible answers...</title>
+        <content type="html">&lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt; @&lt;a class=" "
+            href="http://twitter.com/julia_flanders"&gt;julia_flanders&lt;/a&gt; asks where the
+            scholarship occurs in digital scholarship -- a hugely important question with many
+            possible answers...</content>
+        <updated>2012-03-15T16:10:35Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1187071463/cartoonswanee_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>swanstro (elizabeth swanstrom)</name>
+            <uri>http://twitter.com/swanstro</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180323708244725760</id>
+        <published>2012-03-15T16:04:56Z</published>
+        <link type="text/html" href="http://twitter.com/nealstimler/statuses/180323708244725760"
+            rel="alternate"/>
+        <title>RT @rogerwhitson: .@trevormunoz influential to put more data into the interface, so
+            scholars could argue against our assumptions. #kodm</title>
+        <content type="html">RT @&lt;a class=" "
+            href="http://twitter.com/rogerwhitson"&gt;rogerwhitson&lt;/a&gt;: .@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; influential to put more
+            data into the interface, so scholars could argue against our assumptions.
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T16:04:56Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1469939898/5611295724_d318fecc54medgray_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>nealstimler (Neal Stimler)</name>
+            <uri>http://twitter.com/nealstimler</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180323125194539008</id>
+        <published>2012-03-15T16:02:37Z</published>
+        <link type="text/html" href="http://twitter.com/knoxdw/statuses/180323125194539008"
+            rel="alternate"/>
+        <title>.@WendellPiez: markup in a computing context is a rhetorical performance
+            #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/WendellPiez"&gt;WendellPiez&lt;/a&gt;: markup in a computing
+            context is a rhetorical performance &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T16:02:37Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/285466632/Doug_photo_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>knoxdw (Douglas Knox)</name>
+            <uri>http://twitter.com/knoxdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180323058878394368</id>
+        <published>2012-03-15T16:02:22Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180323058878394368"
+            rel="alternate"/>
+        <title>.@trevormunoz unchastened when Michael Sperberg McQueen begins by saying "You scare
+            me." #kodm [fantastic presentation by Trevor]</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; unchastened when Michael
+            Sperberg McQueen begins by saying "You scare me." &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; [fantastic presentation by Trevor]</content>
+        <updated>2012-03-15T16:02:22Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180322802606419968</id>
+        <published>2012-03-15T16:01:21Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180322802606419968"
+            rel="alternate"/>
+        <title>.@trevormunoz we've become too confident that we are archiving and saving by being so
+            independent. #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; we've become too
+            confident that we are archiving and saving by being so independent. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T16:01:21Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180322533239816193</id>
+        <published>2012-03-15T16:00:16Z</published>
+        <link type="text/html" href="http://twitter.com/epierazzo/statuses/180322533239816193"
+            rel="alternate"/>
+        <title>RT @rogerwhitson: .@trevormunoz is a great advocate for why TEI is important to teach
+            to humanist majors. #kodm</title>
+        <content type="html">RT @&lt;a class=" "
+            href="http://twitter.com/rogerwhitson"&gt;rogerwhitson&lt;/a&gt;: .@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; is a great advocate for
+            why TEI is important to teach to humanist majors. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T16:00:16Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/290370031/ele-scotland_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>epierazzo (Elena Pierazzo)</name>
+            <uri>http://twitter.com/epierazzo</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180322352696016896</id>
+        <published>2012-03-15T15:59:33Z</published>
+        <link type="text/html" href="http://twitter.com/knoxdw/statuses/180322352696016896"
+            rel="alternate"/>
+        <title>.@trevormunoz is directing us away from disembodied data models, points to the social
+            and programming context #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; is directing us away from
+            disembodied data models, points to the social and programming context &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:59:33Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/285466632/Doug_photo_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>knoxdw (Douglas Knox)</name>
+            <uri>http://twitter.com/knoxdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180322294202253312</id>
+        <published>2012-03-15T15:59:19Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180322294202253312"
+            rel="alternate"/>
+        <title>.@trevormunoz is a great advocate for why TEI is important to teach to humanist
+            majors. #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; is a great advocate for
+            why TEI is important to teach to humanist majors. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:59:19Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180321967801499648</id>
+        <published>2012-03-15T15:58:02Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180321967801499648"
+            rel="alternate"/>
+        <title>MT @knoxdw: Really glad @trevormunoz is so wisely pulling many threads together from
+            earlier conversation #kodm</title>
+        <content type="html">MT @&lt;a class=" "
+            href="http://twitter.com/knoxdw"&gt;knoxdw&lt;/a&gt;: Really glad @&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; is so wisely pulling many
+            threads together from earlier conversation &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:58:02Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180321704042700800</id>
+        <published>2012-03-15T15:56:59Z</published>
+        <link type="text/html" href="http://twitter.com/knoxdw/statuses/180321704042700800"
+            rel="alternate"/>
+        <title>Really glad @trevormunoz is so wisely pulling many threads together from earlier
+            conversation #kodm</title>
+        <content type="html">Really glad @&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; is so wisely pulling many
+            threads together from earlier conversation &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:56:59Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/285466632/Doug_photo_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>knoxdw (Douglas Knox)</name>
+            <uri>http://twitter.com/knoxdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180321318128988160</id>
+        <published>2012-03-15T15:55:27Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180321318128988160"
+            rel="alternate"/>
+        <title>@trevormunoz calling for "richer sense of what it means to document the data model"
+            includes the programs that run against the model. #kodm</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; calling for "richer sense
+            of what it means to document the data model" includes the programs that run against the
+            model. &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm"
+            class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:55:27Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180321056790294528</id>
+        <published>2012-03-15T15:54:24Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180321056790294528"
+            rel="alternate"/>
+        <title>.@trevormunoz Working w/ TEI projects is good for coding customization. #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; Working w/ TEI projects
+            is good for coding customization. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:54:24Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180320657521901568</id>
+        <published>2012-03-15T15:52:49Z</published>
+        <link type="text/html" href="http://twitter.com/radusuciu/statuses/180320657521901568"
+            rel="alternate"/>
+        <title>@trevormunoz speaks about the humanist approach to metadata #kodm</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; speaks about the humanist
+            approach to metadata &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:52:49Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1812855688/Bronzino_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/#!/download/iphone" rel="nofollow"&gt;Twitter
+            for iPhone&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>radusuciu (Radu Suciu)</name>
+            <uri>http://twitter.com/radusuciu</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180320146504679424</id>
+        <published>2012-03-15T15:50:47Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180320146504679424"
+            rel="alternate"/>
+        <title>.@trevormunoz Encoding our interpretive assumptions into TEI, as a humanistic
+            approach to coding, instead of clean code. #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; Encoding our interpretive
+            assumptions into TEI, as a humanistic approach to coding, instead of clean code.
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:50:47Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180320019652153344</id>
+        <published>2012-03-15T15:50:17Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180320019652153344"
+            rel="alternate"/>
+        <title>@trevormunoz pushing on earlier discussion of usefulness. Sometimes more interpretive
+            markup creates space for argument/discussion #kodm</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; pushing on earlier
+            discussion of usefulness. Sometimes more interpretive markup creates space for
+            argument/discussion &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:50:17Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180319931995389952</id>
+        <published>2012-03-15T15:49:56Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180319931995389952"
+            rel="alternate"/>
+        <title>.@trevormunoz influential to put more data into the interface, so scholars could
+            argue against our assumptions. #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; influential to put more
+            data into the interface, so scholars could argue against our assumptions.
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:49:56Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180319809089712128</id>
+        <published>2012-03-15T15:49:27Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180319809089712128"
+            rel="alternate"/>
+        <title>.@trevormunoz usefulness as more people being able to use them. Scholars wanted
+            markup to engage in conversation w/ other scholars. #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; usefulness as more people
+            being able to use them. Scholars wanted markup to engage in conversation w/ other
+            scholars. &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:49:27Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180319589811494912</id>
+        <published>2012-03-15T15:48:35Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180319589811494912"
+            rel="alternate"/>
+        <title>@trevormunoz How do different data types sit next to each other.If you have images of
+            a letter do you need a diplomatic transcription? #kodm</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; How do different data
+            types sit next to each other.If you have images of a letter do you need a diplomatic
+            transcription? &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:48:35Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180319332906188802</id>
+        <published>2012-03-15T15:47:33Z</published>
+        <link type="text/html" href="http://twitter.com/epierazzo/statuses/180319332906188802"
+            rel="alternate"/>
+        <title>RT @swanstro: #kodm Trevor Munoz asks how we can go from this http://t.co/amezHWVn to
+            this http://t.co/4zL7HnWj :D</title>
+        <content type="html">RT @&lt;a class=" "
+            href="http://twitter.com/swanstro"&gt;swanstro&lt;/a&gt;: &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; Trevor Munoz asks how we can go from this &lt;a
+            href="http://t.co/amezHWVn"&gt;http://t.co/amezHWVn&lt;/a&gt; to this &lt;a
+            href="http://t.co/4zL7HnWj"&gt;http://t.co/4zL7HnWj&lt;/a&gt; :D</content>
+        <updated>2012-03-15T15:47:33Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/290370031/ele-scotland_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>epierazzo (Elena Pierazzo)</name>
+            <uri>http://twitter.com/epierazzo</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180318835981824000</id>
+        <published>2012-03-15T15:45:35Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180318835981824000"
+            rel="alternate"/>
+        <title>Exactly! RT @lmrhody: Is [metaleptic markup] when one does metadata while on an
+            elliptical? #kodm</title>
+        <content type="html">Exactly! RT @&lt;a class=" "
+            href="http://twitter.com/lmrhody"&gt;lmrhody&lt;/a&gt;: Is [metaleptic markup] when one
+            does metadata while on an elliptical? &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:45:35Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180318700040237056</id>
+        <published>2012-03-15T15:45:02Z</published>
+        <link type="text/html" href="http://twitter.com/swanstro/statuses/180318700040237056"
+            rel="alternate"/>
+        <title>#kodm Trevor Munoz asks how we can go from this http://t.co/amezHWVn to this
+            http://t.co/4zL7HnWj :D</title>
+        <content type="html">&lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt; Trevor Munoz asks how we can go
+            from this &lt;a href="http://t.co/amezHWVn"&gt;http://t.co/amezHWVn&lt;/a&gt; to this
+            &lt;a href="http://t.co/4zL7HnWj"&gt;http://t.co/4zL7HnWj&lt;/a&gt; :D</content>
+        <updated>2012-03-15T15:45:02Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1187071463/cartoonswanee_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>swanstro (elizabeth swanstrom)</name>
+            <uri>http://twitter.com/swanstro</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180318579789529090</id>
+        <published>2012-03-15T15:44:34Z</published>
+        <link type="text/html" href="http://twitter.com/knoxdw/statuses/180318579789529090"
+            rel="alternate"/>
+        <title>.@trevormunoz begins with quotation from @WendellPiez (2001) on metaleptic markup
+            http://t.co/LGsZzSw4 #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; begins with quotation
+            from @&lt;a class=" " href="http://twitter.com/WendellPiez"&gt;WendellPiez&lt;/a&gt;
+            (2001) on metaleptic markup &lt;a
+            href="http://t.co/LGsZzSw4"&gt;http://t.co/LGsZzSw4&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:44:34Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/285466632/Doug_photo_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>knoxdw (Douglas Knox)</name>
+            <uri>http://twitter.com/knoxdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180318464270008321</id>
+        <published>2012-03-15T15:44:06Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180318464270008321"
+            rel="alternate"/>
+        <title>@lmrhody There's a live feed! http://t.co/xmbHwNRJ #kodm</title>
+        <content type="html">@&lt;a class=" " href="http://twitter.com/lmrhody"&gt;lmrhody&lt;/a&gt;
+            There's a live feed! &lt;a href="http://t.co/xmbHwNRJ"&gt;http://t.co/xmbHwNRJ&lt;/a&gt;
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:44:06Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180318344631681024</id>
+        <published>2012-03-15T15:43:38Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180318344631681024"
+            rel="alternate"/>
+        <title>.@trevormunoz talking about the Shelley-Godwin archive and TEI. #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; talking about the
+            Shelley-Godwin archive and TEI. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:43:38Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180318262935035906</id>
+        <published>2012-03-15T15:43:18Z</published>
+        <link type="text/html" href="http://twitter.com/lmrhody/statuses/180318262935035906"
+            rel="alternate"/>
+        <title>@karikraus Is this when one does metadata while on an elliptical? #kodm</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/karikraus"&gt;karikraus&lt;/a&gt; Is this when one does
+            metadata while on an elliptical? &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:43:18Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1224715896/twitterpic_normal.JPG" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>lmrhody (Lisa Rhody)</name>
+            <uri>http://twitter.com/lmrhody</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180318181158694912</id>
+        <published>2012-03-15T15:42:59Z</published>
+        <link type="text/html" href="http://twitter.com/radusuciu/statuses/180318181158694912"
+            rel="alternate"/>
+        <title>@trevormunoz speaks now at #kodm watching, listening &amp; tweeting from Geneva.
+            Great webcast!</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; speaks now at
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; watching, listening &amp; tweeting from Geneva. Great
+            webcast!</content>
+        <updated>2012-03-15T15:42:59Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1812855688/Bronzino_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/#!/download/iphone" rel="nofollow"&gt;Twitter
+            for iPhone&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>radusuciu (Radu Suciu)</name>
+            <uri>http://twitter.com/radusuciu</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180318169750192129</id>
+        <published>2012-03-15T15:42:56Z</published>
+        <link type="text/html" href="http://twitter.com/epierazzo/statuses/180318169750192129"
+            rel="alternate"/>
+        <title>@trevormunoz on metaleptic markup (from Wendell) #kodm</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; on metaleptic markup
+            (from Wendell) &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:42:56Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/290370031/ele-scotland_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>epierazzo (Elena Pierazzo)</name>
+            <uri>http://twitter.com/epierazzo</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180318136514514944</id>
+        <published>2012-03-15T15:42:48Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180318136514514944"
+            rel="alternate"/>
+        <title>@trevormunoz going to be discussing how we find our data models, using example of TEI
+            customization. #kodm</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; going to be discussing
+            how we find our data models, using example of TEI customization. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:42:48Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180318056537534464</id>
+        <published>2012-03-15T15:42:29Z</published>
+        <link type="text/html" href="http://twitter.com/lmrhody/statuses/180318056537534464"
+            rel="alternate"/>
+        <title>RT @karikraus: .@trevormunoz up next on "discovering our models," responding to some
+            of the conversation here at #kodm / Wish I could hear!</title>
+        <content type="html">RT @&lt;a class=" "
+            href="http://twitter.com/karikraus"&gt;karikraus&lt;/a&gt;: .@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; up next on "discovering
+            our models," responding to some of the conversation here at &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; / Wish I could hear!</content>
+        <updated>2012-03-15T15:42:29Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1224715896/twitterpic_normal.JPG" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>lmrhody (Lisa Rhody)</name>
+            <uri>http://twitter.com/lmrhody</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180318023951982592</id>
+        <published>2012-03-15T15:42:21Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180318023951982592"
+            rel="alternate"/>
+        <title>Whoa--metaleptic markup. #kodm</title>
+        <content type="html">Whoa--metaleptic markup. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:42:21Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180317835661283328</id>
+        <published>2012-03-15T15:41:36Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180317835661283328"
+            rel="alternate"/>
+        <title>@jean_bauer Cool! He does tons of cool stuff. #kodm</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/jean_bauer"&gt;jean_bauer&lt;/a&gt; Cool! He does tons of cool
+            stuff. &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm"
+            class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:41:36Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180317800152301568</id>
+        <published>2012-03-15T15:41:28Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180317800152301568"
+            rel="alternate"/>
+        <title>.@trevormunoz up next on "discovering our models," responding to some of the
+            conversation here at #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; up next on "discovering
+            our models," responding to some of the conversation here at &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:41:28Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180317652806410240</id>
+        <published>2012-03-15T15:40:53Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180317652806410240"
+            rel="alternate"/>
+        <title>@trevormunoz starting his talk "Discovering our Models" #kodm</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; starting his talk
+            "Discovering our Models" &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:40:53Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>sv</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180317122512171010</id>
+        <published>2012-03-15T15:38:46Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180317122512171010"
+            rel="alternate"/>
+        <title>Coexistence of RDF and TEI, how do they work together? Interesting problem.
+            #kodm</title>
+        <content type="html">Coexistence of RDF and TEI, how do they work together? Interesting
+            problem. &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm"
+            class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:38:46Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180316491139395584</id>
+        <published>2012-03-15T15:36:16Z</published>
+        <link type="text/html" href="http://twitter.com/knoxdw/statuses/180316491139395584"
+            rel="alternate"/>
+        <title>.gradmans says RDF has built-in limitations, may be stuck with simple denotation, not
+            good with ambiguity #kodm</title>
+        <content type="html">.gradmans says RDF has built-in limitations, may be stuck with simple
+            denotation, not good with ambiguity &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:36:16Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/285466632/Doug_photo_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>knoxdw (Douglas Knox)</name>
+            <uri>http://twitter.com/knoxdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180316226734657539</id>
+        <published>2012-03-15T15:35:13Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180316226734657539"
+            rel="alternate"/>
+        <title>@gradmans suggests extension of RDF statements to cover relationships of interest to
+            textual scholars (eg, scribe A copied scribed B) #kodm</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/gradmans"&gt;gradmans&lt;/a&gt; suggests extension of RDF
+            statements to cover relationships of interest to textual scholars (eg, scribe A copied
+            scribed B) &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:35:13Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180314164261175298</id>
+        <published>2012-03-15T15:27:01Z</published>
+        <link type="text/html" href="http://twitter.com/epierazzo/statuses/180314164261175298"
+            rel="alternate"/>
+        <title>RT @trevormunoz: Modeling context in RDF&#x2014;runs into the same problems that
+            Willard McCarty has previously discussed for XML markup #kodm</title>
+        <content type="html">RT @&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt;: Modeling context in
+            RDF&#x2014;runs into the same problems that Willard McCarty has previously discussed for
+            XML markup &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:27:01Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/290370031/ele-scotland_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12"
+            rel="nofollow"&gt;Twitter for Mac&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>epierazzo (Elena Pierazzo)</name>
+            <uri>http://twitter.com/epierazzo</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180314080538656768</id>
+        <published>2012-03-15T15:26:41Z</published>
+        <link type="text/html" href="http://twitter.com/radusuciu/statuses/180314080538656768"
+            rel="alternate"/>
+        <title>RT @trevormunoz: Modeling context in RDF&#x2014;runs into the same problems that
+            Willard McCarty has previously discussed for XML markup #kodm</title>
+        <content type="html">RT @&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt;: Modeling context in
+            RDF&#x2014;runs into the same problems that Willard McCarty has previously discussed for
+            XML markup &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:26:41Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1812855688/Bronzino_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12"
+            rel="nofollow"&gt;Twitter for Mac&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>radusuciu (Radu Suciu)</name>
+            <uri>http://twitter.com/radusuciu</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180313803873992704</id>
+        <published>2012-03-15T15:25:35Z</published>
+        <link type="text/html" href="http://twitter.com/trevormunoz/statuses/180313803873992704"
+            rel="alternate"/>
+        <title>McCarty on the problems of "context" http://t.co/F4enzpyO #kodm</title>
+        <content type="html">McCarty on the problems of "context" &lt;a
+            href="http://t.co/F4enzpyO"&gt;http://t.co/F4enzpyO&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:25:35Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1160997053/headshot-110510_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12"
+            rel="nofollow"&gt;Twitter for Mac&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>trevormunoz (Trevor Munoz)</name>
+            <uri>http://twitter.com/trevormunoz</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180313693777698817</id>
+        <published>2012-03-15T15:25:09Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180313693777698817"
+            rel="alternate"/>
+        <title>.@gradmans on RDF modeling: Where do resource aggregations start? Where do the end?
+            And what constitutes document boundaries? #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/gradmans"&gt;gradmans&lt;/a&gt; on RDF modeling: Where do
+            resource aggregations start? Where do the end? And what constitutes document boundaries?
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:25:09Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180313496133705730</id>
+        <published>2012-03-15T15:24:22Z</published>
+        <link type="text/html" href="http://twitter.com/trevormunoz/statuses/180313496133705730"
+            rel="alternate"/>
+        <title>Modeling context in RDF&#x2014;runs into the same problems that Willard McCarty has
+            previously discussed for XML markup #kodm</title>
+        <content type="html">Modeling context in RDF&#x2014;runs into the same problems that Willard
+            McCarty has previously discussed for XML markup &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:24:22Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1160997053/headshot-110510_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12"
+            rel="nofollow"&gt;Twitter for Mac&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>trevormunoz (Trevor Munoz)</name>
+            <uri>http://twitter.com/trevormunoz</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180313407390625793</id>
+        <published>2012-03-15T15:24:01Z</published>
+        <link type="text/html" href="http://twitter.com/knoxdw/statuses/180313407390625793"
+            rel="alternate"/>
+        <title>.@gradmans sees new questions in RDF: versioning, how to know what a node was linked
+            to at a given time? #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/gradmans"&gt;gradmans&lt;/a&gt; sees new questions in RDF:
+            versioning, how to know what a node was linked to at a given time? &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:24:01Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/285466632/Doug_photo_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>knoxdw (Douglas Knox)</name>
+            <uri>http://twitter.com/knoxdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180313264410996736</id>
+        <published>2012-03-15T15:23:26Z</published>
+        <link type="text/html" href="http://twitter.com/trevormunoz/statuses/180313264410996736"
+            rel="alternate"/>
+        <title>.@gradmans notes that modeling object representations in RDF raises questions like:
+            where are the boundaries of resources #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/gradmans"&gt;gradmans&lt;/a&gt; notes that modeling object
+            representations in RDF raises questions like: where are the boundaries of resources
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:23:26Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1160997053/headshot-110510_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12"
+            rel="nofollow"&gt;Twitter for Mac&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>trevormunoz (Trevor Munoz)</name>
+            <uri>http://twitter.com/trevormunoz</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180313123578855424</id>
+        <published>2012-03-15T15:22:53Z</published>
+        <link type="text/html" href="http://twitter.com/triplingual/statuses/180313123578855424"
+            rel="alternate"/>
+        <title>RT @jean_bauer: SNAC prototype has really clean design. Going to play with this
+            later. http://t.co/9xlK72it #kodm</title>
+        <content type="html">RT @&lt;a class=" "
+            href="http://twitter.com/jean_bauer"&gt;jean_bauer&lt;/a&gt;: SNAC prototype has really
+            clean design. Going to play with this later. &lt;a
+            href="http://t.co/9xlK72it"&gt;http://t.co/9xlK72it&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:22:53Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1220105925/triplingual_avatar_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>triplingual (Trip Kirkpatrick)</name>
+            <uri>http://twitter.com/triplingual</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180312824239767552</id>
+        <published>2012-03-15T15:21:42Z</published>
+        <link type="text/html" href="http://twitter.com/mandellc/statuses/180312824239767552"
+            rel="alternate"/>
+        <title>@jean_bauer #kodm It's working in Texas. sorry for tweeting twice</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/jean_bauer"&gt;jean_bauer&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; It's working in Texas. sorry for tweeting
+            twice</content>
+        <updated>2012-03-15T15:21:42Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1209009985/Photo_on_2011-01-07_at_01.10_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>mandellc (Laura Mandell)</name>
+            <uri>http://twitter.com/mandellc</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180312589358735361</id>
+        <published>2012-03-15T15:20:46Z</published>
+        <link type="text/html" href="http://twitter.com/mandellc/statuses/180312589358735361"
+            rel="alternate"/>
+        <title>#kodm Jean, I'm seeing it -- Laura Mandell</title>
+        <content type="html">&lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt; Jean, I'm seeing it -- Laura
+            Mandell</content>
+        <updated>2012-03-15T15:20:46Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1209009985/Photo_on_2011-01-07_at_01.10_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>mandellc (Laura Mandell)</name>
+            <uri>http://twitter.com/mandellc</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180311766633431040</id>
+        <published>2012-03-15T15:17:29Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180311766633431040"
+            rel="alternate"/>
+        <title>Are people still able to see the #kodm live feed? Heard from at least one person that
+            it isn't working.</title>
+        <content type="html">Are people still able to see the &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; live feed? Heard from at least one person that it isn't
+            working.</content>
+        <updated>2012-03-15T15:17:29Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180311603391107073</id>
+        <published>2012-03-15T15:16:50Z</published>
+        <link type="text/html" href="http://twitter.com/trevormunoz/statuses/180311603391107073"
+            rel="alternate"/>
+        <title>The classes in the EDM model are deliberately simple (event, agent, place, physical
+            thing, etc.) Meant to be top-level. #kodm</title>
+        <content type="html">The classes in the EDM model are deliberately simple (event, agent,
+            place, physical thing, etc.) Meant to be top-level. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:16:50Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1160997053/headshot-110510_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12"
+            rel="nofollow"&gt;Twitter for Mac&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>trevormunoz (Trevor Munoz)</name>
+            <uri>http://twitter.com/trevormunoz</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180311158190899201</id>
+        <published>2012-03-15T15:15:04Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180311158190899201"
+            rel="alternate"/>
+        <title>Gradmann: EDM (Europeana Data Model) an RDF-based model for making statements abt
+            digital representations of cultural heritage objects #kodm</title>
+        <content type="html">Gradmann: EDM (Europeana Data Model) an RDF-based model for making
+            statements abt digital representations of cultural heritage objects &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:15:04Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180311103740461056</id>
+        <published>2012-03-15T15:14:51Z</published>
+        <link type="text/html" href="http://twitter.com/MMOckerbloom/statuses/180311103740461056"
+            rel="alternate"/>
+        <title>RT @sleonchnm: SNAC is awesome. RT @jean_bauer: Link for SNAC project
+            http://t.co/ifwJD5cy #kodm -- really cool stuff! #kodm</title>
+        <content type="html">RT @&lt;a class=" "
+            href="http://twitter.com/sleonchnm"&gt;sleonchnm&lt;/a&gt;: SNAC is awesome. RT @&lt;a
+            class=" " href="http://twitter.com/jean_bauer"&gt;jean_bauer&lt;/a&gt;: Link for SNAC
+            project &lt;a href="http://t.co/ifwJD5cy"&gt;http://t.co/ifwJD5cy&lt;/a&gt;
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; -- really cool stuff! &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:14:51Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/876543622/celebrate-small_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>MMOckerbloom (Mary Mark Ockerbloom)</name>
+            <uri>http://twitter.com/MMOckerbloom</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180311086673838080</id>
+        <published>2012-03-15T15:14:47Z</published>
+        <link type="text/html" href="http://twitter.com/julia_flanders/statuses/180311086673838080"
+            rel="alternate"/>
+        <title>.@gradmans EDM can model "potentially conflicting" statements about digital
+            representations of cultural heritage objects #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/gradmans"&gt;gradmans&lt;/a&gt; EDM can model "potentially
+            conflicting" statements about digital representations of cultural heritage objects
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:14:47Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/837886064/jhf_headshot_supercropped_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com" rel="nofollow"&gt;Tweetie for
+            Mac&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>julia_flanders (Julia Flanders)</name>
+            <uri>http://twitter.com/julia_flanders</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180310901537243137</id>
+        <published>2012-03-15T15:14:03Z</published>
+        <link type="text/html" href="http://twitter.com/trevormunoz/statuses/180310901537243137"
+            rel="alternate"/>
+        <title>.@gradmans: EDM is not an object model (like TEI) or a record model (like many
+            metadata systems) #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/gradmans"&gt;gradmans&lt;/a&gt;: EDM is not an object model
+            (like TEI) or a record model (like many metadata systems) &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:14:03Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1160997053/headshot-110510_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12"
+            rel="nofollow"&gt;Twitter for Mac&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>trevormunoz (Trevor Munoz)</name>
+            <uri>http://twitter.com/trevormunoz</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180310656363401216</id>
+        <published>2012-03-15T15:13:05Z</published>
+        <link type="text/html" href="http://twitter.com/trevormunoz/statuses/180310656363401216"
+            rel="alternate"/>
+        <title>Europeana Data Model (EDM) is "a model for making statements about digital
+            representations of cultural heritage objects" @gradmans #kodm</title>
+        <content type="html">Europeana Data Model (EDM) is "a model for making statements about
+            digital representations of cultural heritage objects" @&lt;a class=" "
+            href="http://twitter.com/gradmans"&gt;gradmans&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:13:05Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1160997053/headshot-110510_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12"
+            rel="nofollow"&gt;Twitter for Mac&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>trevormunoz (Trevor Munoz)</name>
+            <uri>http://twitter.com/trevormunoz</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180310196118233088</id>
+        <published>2012-03-15T15:11:15Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180310196118233088"
+            rel="alternate"/>
+        <title>Stephan Gradmann now talking about the Europeana Data Model, abstract here
+            http://t.co/qwoH6vsR #kodm</title>
+        <content type="html">Stephan Gradmann now talking about the Europeana Data Model, abstract
+            here &lt;a href="http://t.co/qwoH6vsR"&gt;http://t.co/qwoH6vsR&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:11:15Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180309984968572928</id>
+        <published>2012-03-15T15:10:25Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180309984968572928"
+            rel="alternate"/>
+        <title>Social network graph of Vannevar Bush #snac #kodm cc @jilltxt @digiwonk
+            http://t.co/tSom2J8y</title>
+        <content type="html">Social network graph of Vannevar Bush &lt;a
+            href="http://search.twitter.com/search?q=%23snac" title="#snac" class="
+            "&gt;#snac&lt;/a&gt; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt; cc @&lt;a class=" "
+            href="http://twitter.com/jilltxt"&gt;jilltxt&lt;/a&gt; @&lt;a class=" "
+            href="http://twitter.com/digiwonk"&gt;digiwonk&lt;/a&gt; &lt;a
+            href="http://t.co/tSom2J8y"&gt;http://t.co/tSom2J8y&lt;/a&gt;</content>
+        <updated>2012-03-15T15:10:25Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180309821122281472</id>
+        <published>2012-03-15T15:09:46Z</published>
+        <link type="text/html" href="http://twitter.com/trevormunoz/statuses/180309821122281472"
+            rel="alternate"/>
+        <title>Next at #kodm @gradmans will be speaking about the Europeana Data Model and what it
+            might be possible to do with it</title>
+        <content type="html">Next at &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; @&lt;a class=" "
+            href="http://twitter.com/gradmans"&gt;gradmans&lt;/a&gt; will be speaking about the
+            Europeana Data Model and what it might be possible to do with it</content>
+        <updated>2012-03-15T15:09:46Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1160997053/headshot-110510_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12"
+            rel="nofollow"&gt;Twitter for Mac&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>trevormunoz (Trevor Munoz)</name>
+            <uri>http://twitter.com/trevormunoz</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180308102674001920</id>
+        <published>2012-03-15T15:02:56Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180308102674001920"
+            rel="alternate"/>
+        <title>Pitti on name authority "Keeping two names separate when you are in doubt is better
+            than conflating them, which obscures information." #kodm</title>
+        <content type="html">Pitti on name authority "Keeping two names separate when you are in
+            doubt is better than conflating them, which obscures information." &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:02:56Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180307873832775680</id>
+        <published>2012-03-15T15:02:01Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180307873832775680"
+            rel="alternate"/>
+        <title>.@digiwonk @jilltxt Go to http://t.co/T5yX0fqf and click on "radial graph demo" in
+            upper right corner; I'll also post a pic. #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/digiwonk"&gt;digiwonk&lt;/a&gt; @&lt;a class=" "
+            href="http://twitter.com/jilltxt"&gt;jilltxt&lt;/a&gt; Go to &lt;a
+            href="http://t.co/T5yX0fqf"&gt;http://t.co/T5yX0fqf&lt;/a&gt; and click on "radial graph
+            demo" in upper right corner; I'll also post a pic. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:02:01Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180307811979362305</id>
+        <published>2012-03-15T15:01:46Z</published>
+        <link type="text/html" href="http://twitter.com/sleonchnm/statuses/180307811979362305"
+            rel="alternate"/>
+        <title>SNAC is awesome. RT @jean_bauer: Link for SNAC project http://t.co/ifwJD5cy #kodm --
+            really cool stuff! #kodm</title>
+        <content type="html">SNAC is awesome. RT @&lt;a class=" "
+            href="http://twitter.com/jean_bauer"&gt;jean_bauer&lt;/a&gt;: Link for SNAC project
+            &lt;a href="http://t.co/ifwJD5cy"&gt;http://t.co/ifwJD5cy&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; -- really cool stuff! &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:01:46Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/521253161/SML_sideProfile_small_crop_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>sleonchnm (Sharon Leon)</name>
+            <uri>http://twitter.com/sleonchnm</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180307685990871040</id>
+        <published>2012-03-15T15:01:16Z</published>
+        <link type="text/html" href="http://twitter.com/swanstro/statuses/180307685990871040"
+            rel="alternate"/>
+        <title>#kodm So happy to be at this amazing symposium/workshop this week in Providence:
+            http://t.co/tVixRIa6 Amazing and inspiring projects...</title>
+        <content type="html">&lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt; So happy to be at this amazing
+            symposium/workshop this week in Providence: &lt;a
+            href="http://t.co/tVixRIa6"&gt;http://t.co/tVixRIa6&lt;/a&gt; Amazing and inspiring
+            projects...</content>
+        <updated>2012-03-15T15:01:16Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1187071463/cartoonswanee_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>swanstro (elizabeth swanstrom)</name>
+            <uri>http://twitter.com/swanstro</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180307587860930560</id>
+        <published>2012-03-15T15:00:53Z</published>
+        <link type="text/html" href="http://twitter.com/knoxdw/statuses/180307587860930560"
+            rel="alternate"/>
+        <title>.@schichmax asks a good question about the "long tail" of people in archival records,
+            with little info and one or two connections #kodm</title>
+        <content type="html">.@&lt;a class=" "
+            href="http://twitter.com/schichmax"&gt;schichmax&lt;/a&gt; asks a good question about
+            the "long tail" of people in archival records, with little info and one or two
+            connections &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T15:00:53Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/285466632/Doug_photo_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>knoxdw (Douglas Knox)</name>
+            <uri>http://twitter.com/knoxdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180307207571767296</id>
+        <published>2012-03-15T14:59:22Z</published>
+        <link type="text/html" href="http://twitter.com/swanstro/statuses/180307207571767296"
+            rel="alternate"/>
+        <title>#kodm super cool project out of UVA called S.N.A.C. (Social Networks and Archival
+            Contexts). Here's the prototype. http://t.co/N2axCFGM</title>
+        <content type="html">&lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt; super cool project out of UVA
+            called S.N.A.C. (Social Networks and Archival Contexts). Here's the prototype. &lt;a
+            href="http://t.co/N2axCFGM"&gt;http://t.co/N2axCFGM&lt;/a&gt;</content>
+        <updated>2012-03-15T14:59:22Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1187071463/cartoonswanee_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>swanstro (elizabeth swanstrom)</name>
+            <uri>http://twitter.com/swanstro</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180306378374660096</id>
+        <published>2012-03-15T14:56:05Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180306378374660096"
+            rel="alternate"/>
+        <title>Love this social network graph for Vannavar Bush that Daniel Pitti ends his
+            presentation with. #kodm</title>
+        <content type="html">Love this social network graph for Vannavar Bush that Daniel Pitti ends
+            his presentation with. &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:56:05Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180306365057728512</id>
+        <published>2012-03-15T14:56:02Z</published>
+        <link type="text/html" href="http://twitter.com/knoxdw/statuses/180306365057728512"
+            rel="alternate"/>
+        <title>Pitti: There are two degrees of separation from J. Robert Oppenheimer to Groucho
+            Marx, through T. S. Eliot. #kodm</title>
+        <content type="html">Pitti: There are two degrees of separation from J. Robert Oppenheimer
+            to Groucho Marx, through T. S. Eliot. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:56:02Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/285466632/Doug_photo_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>knoxdw (Douglas Knox)</name>
+            <uri>http://twitter.com/knoxdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180305698738028544</id>
+        <published>2012-03-15T14:53:23Z</published>
+        <link type="text/html" href="http://twitter.com/knoxdw/statuses/180305698738028544"
+            rel="alternate"/>
+        <title>The SNAC prototype is at http://t.co/p0Qz7Qtz #kodm</title>
+        <content type="html">The SNAC prototype is at &lt;a
+            href="http://t.co/p0Qz7Qtz"&gt;http://t.co/p0Qz7Qtz&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:53:23Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/285466632/Doug_photo_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>knoxdw (Douglas Knox)</name>
+            <uri>http://twitter.com/knoxdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180304215716020224</id>
+        <published>2012-03-15T14:47:29Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180304215716020224"
+            rel="alternate"/>
+        <title>Pitti: EAD often records intellectual/conceptual links between individuals ex. 20th
+            C. collector of Dante's works #kodm</title>
+        <content type="html">Pitti: EAD often records intellectual/conceptual links between
+            individuals ex. 20th C. collector of Dante's works &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:47:29Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180303275206250497</id>
+        <published>2012-03-15T14:43:45Z</published>
+        <link type="text/html" href="http://twitter.com/trevormunoz/statuses/180303275206250497"
+            rel="alternate"/>
+        <title>Pitti: Creating EAC-CPF records (http://t.co/wVBeWmvr) from EAD then comparing
+            descriptions and trying to match &amp; merge #kodm</title>
+        <content type="html">Pitti: Creating EAC-CPF records (&lt;a
+            href="http://t.co/wVBeWmvr"&gt;http://t.co/wVBeWmvr&lt;/a&gt;) from EAD then comparing
+            descriptions and trying to match &amp; merge &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:43:45Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1160997053/headshot-110510_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12"
+            rel="nofollow"&gt;Twitter for Mac&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>trevormunoz (Trevor Munoz)</name>
+            <uri>http://twitter.com/trevormunoz</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180303099863371776</id>
+        <published>2012-03-15T14:43:03Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180303099863371776"
+            rel="alternate"/>
+        <title>Link for SNAC project http://t.co/N1kt8apb #kodm -- really cool stuff! #kodm</title>
+        <content type="html">Link for SNAC project &lt;a
+            href="http://t.co/N1kt8apb"&gt;http://t.co/N1kt8apb&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; -- really cool stuff! &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:43:03Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180303006154244096</id>
+        <published>2012-03-15T14:42:41Z</published>
+        <link type="text/html" href="http://twitter.com/knoxdw/statuses/180303006154244096"
+            rel="alternate"/>
+        <title>Pitti: SNAC extracts information on people from EAD, supplements with authority
+            records, builds contextual information around people #kodm</title>
+        <content type="html">Pitti: SNAC extracts information on people from EAD, supplements with
+            authority records, builds contextual information around people &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:42:41Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/285466632/Doug_photo_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>knoxdw (Douglas Knox)</name>
+            <uri>http://twitter.com/knoxdw</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180302840638619648</id>
+        <published>2012-03-15T14:42:01Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180302840638619648"
+            rel="alternate"/>
+        <title>SNAC: provide integrative, unified access to archival resources. Data: authority
+            records and 30,000 EAD-encoded finding aids #kodm</title>
+        <content type="html">SNAC: provide integrative, unified access to archival resources. Data:
+            authority records and 30,000 EAD-encoded finding aids &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:42:01Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180302597289291776</id>
+        <published>2012-03-15T14:41:03Z</published>
+        <link type="text/html" href="http://twitter.com/trevormunoz/statuses/180302597289291776"
+            rel="alternate"/>
+        <title>The SNAC project is trying to separate out the embedded descriptions of people within
+            existing archival descriptions #kodm</title>
+        <content type="html">The SNAC project is trying to separate out the embedded descriptions of
+            people within existing archival descriptions &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:41:03Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1160997053/headshot-110510_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12"
+            rel="nofollow"&gt;Twitter for Mac&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>trevormunoz (Trevor Munoz)</name>
+            <uri>http://twitter.com/trevormunoz</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180301924258676736</id>
+        <published>2012-03-15T14:38:23Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180301924258676736"
+            rel="alternate"/>
+        <title>Up next: SNAC: The social networks and archival contexts project, presented by Dan
+            Pitti #kodm</title>
+        <content type="html">Up next: SNAC: The social networks and archival contexts project,
+            presented by Dan Pitti &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:38:23Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180301765764325376</id>
+        <published>2012-03-15T14:37:45Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180301765764325376"
+            rel="alternate"/>
+        <title>Daniel Pitti starting his talk "SNAC: The Social Networks and Archival Context"
+            original abstract http://t.co/59MqdoM0 #kodm</title>
+        <content type="html">Daniel Pitti starting his talk "SNAC: The Social Networks and Archival
+            Context" original abstract &lt;a
+            href="http://t.co/59MqdoM0"&gt;http://t.co/59MqdoM0&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:37:45Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180294399362732032</id>
+        <published>2012-03-15T14:08:29Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180294399362732032"
+            rel="alternate"/>
+        <title>If we encode cultural agreements, we can do more. XML separate form and content to
+            make it more shareable. #kodm</title>
+        <content type="html">If we encode cultural agreements, we can do more. XML separate form and
+            content to make it more shareable. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:08:29Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180294185918799873</id>
+        <published>2012-03-15T14:07:38Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180294185918799873"
+            rel="alternate"/>
+        <title>Notion that temperature measurements are pre-theoretical doesn't hold up to Kuhn, let
+            alone other Phil of Science. #kodm</title>
+        <content type="html">Notion that temperature measurements are pre-theoretical doesn't hold
+            up to Kuhn, let alone other Phil of Science. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:07:38Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180293509444681728</id>
+        <published>2012-03-15T14:04:57Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180293509444681728"
+            rel="alternate"/>
+        <title>If it's all theory, what can I do? Degree matters in a practical and social sense.
+            Can we agree group of assumptions? #kodm</title>
+        <content type="html">If it's all theory, what can I do? Degree matters in a practical and
+            social sense. Can we agree group of assumptions? &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:04:57Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180293122717261826</id>
+        <published>2012-03-15T14:03:24Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180293122717261826"
+            rel="alternate"/>
+        <title>The less people put into a text, the more people can use it. Can't use interpretation
+            as a club. #kodm</title>
+        <content type="html">The less people put into a text, the more people can use it. Can't use
+            interpretation as a club. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:03:24Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180292676359438336</id>
+        <published>2012-03-15T14:01:38Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180292676359438336"
+            rel="alternate"/>
+        <title>RT @NEH_ODH: Brown's Knowledge Organization &amp; Data Modeling in the Humanities /
+            @datasymposium #kodm / LiveStream: http://t.co/TFZjVbVN</title>
+        <content type="html">RT @&lt;a class=" "
+            href="http://twitter.com/NEH_ODH"&gt;NEH_ODH&lt;/a&gt;: Brown's Knowledge Organization
+            &amp; Data Modeling in the Humanities / @&lt;a class=" "
+            href="http://twitter.com/datasymposium"&gt;datasymposium&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; / LiveStream: &lt;a
+            href="http://t.co/TFZjVbVN"&gt;http://t.co/TFZjVbVN&lt;/a&gt;</content>
+        <updated>2012-03-15T14:01:38Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180292671011688451</id>
+        <published>2012-03-15T14:01:37Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180292671011688451"
+            rel="alternate"/>
+        <title>Syd Bauman raises the interesting issue of order as complement to units in data
+            modeling [one example: respect des fonds in archives?] #kodm</title>
+        <content type="html">Syd Bauman raises the interesting issue of order as complement to units
+            in data modeling [one example: respect des fonds in archives?] &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:01:37Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180292588358742017</id>
+        <published>2012-03-15T14:01:17Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180292588358742017"
+            rel="alternate"/>
+        <title>And we just hit E.F. Codd #kodm (and it wasn't me)</title>
+        <content type="html">And we just hit E.F. Codd &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; (and it wasn't me)</content>
+        <updated>2012-03-15T14:01:17Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180292398188986370</id>
+        <published>2012-03-15T14:00:32Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180292398188986370"
+            rel="alternate"/>
+        <title>Use the term data model as an attempt to make our assumptions explicit. Implicit
+            assumptions also models. Unconscious models. #kodm</title>
+        <content type="html">Use the term data model as an attempt to make our assumptions explicit.
+            Implicit assumptions also models. Unconscious models. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T14:00:32Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180291811531685888</id>
+        <published>2012-03-15T13:58:12Z</published>
+        <link type="text/html" href="http://twitter.com/rogerwhitson/statuses/180291811531685888"
+            rel="alternate"/>
+        <title>Coming into the middle of a data modeling conversation can be confusing.
+            #kodm</title>
+        <content type="html">Coming into the middle of a data modeling conversation can be
+            confusing. &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm"
+            title="#kodm" class=" "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T13:58:12Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1769740326/Screen_Shot_2012-01-04_at_12.59.21_PM_normal.png"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.echofon.com/"
+            rel="nofollow"&gt;Echofon&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>rogerwhitson (Roger Whitson)</name>
+            <uri>http://twitter.com/rogerwhitson</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180291437420752896</id>
+        <published>2012-03-15T13:56:42Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180291437420752896"
+            rel="alternate"/>
+        <title>Models adhere in practices and procedures. ~@julia_flanders #kodm</title>
+        <content type="html">Models adhere in practices and procedures. ~@&lt;a class=" "
+            href="http://twitter.com/julia_flanders"&gt;julia_flanders&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T13:56:42Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180290116806389760</id>
+        <published>2012-03-15T13:51:28Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180290116806389760"
+            rel="alternate"/>
+        <title>"The simpler I keep the model and the stupider the algorithm, the better the results"
+            ~Syd Bauman paraphrases a CS researcher. #kodm</title>
+        <content type="html">"The simpler I keep the model and the stupider the algorithm, the
+            better the results" ~Syd Bauman paraphrases a CS researcher. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T13:51:28Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180289255581548544</id>
+        <published>2012-03-15T13:48:02Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180289255581548544"
+            rel="alternate"/>
+        <title>We are totally working over the concept of the "raw" at #kodm in the context of a
+            discussion of modeling primitives. Good stuff.</title>
+        <content type="html">We are totally working over the concept of the "raw" at &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt; in the context of a discussion of modeling primitives.
+            Good stuff.</content>
+        <updated>2012-03-15T13:48:02Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180288608392060928</id>
+        <published>2012-03-15T13:45:28Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180288608392060928"
+            rel="alternate"/>
+        <title>It is interesting to watch participants edge up to abstractions (potentially
+            modelable objects?) and then shy away almost immediately. #kodm</title>
+        <content type="html">It is interesting to watch participants edge up to abstractions
+            (potentially modelable objects?) and then shy away almost immediately. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T13:45:28Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180288002566799361</id>
+        <published>2012-03-15T13:43:04Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180288002566799361"
+            rel="alternate"/>
+        <title>@karikraus "How do we carve artifacts and constructs at the joints to create those
+            discreet units [of study/modeling]?" #kodm</title>
+        <content type="html">@&lt;a class=" "
+            href="http://twitter.com/karikraus"&gt;karikraus&lt;/a&gt; "How do we carve artifacts
+            and constructs at the joints to create those discreet units [of study/modeling]?"
+            &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T13:43:04Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180286866891870208</id>
+        <published>2012-03-15T13:38:33Z</published>
+        <link type="text/html" href="http://twitter.com/triplingual/statuses/180286866891870208"
+            rel="alternate"/>
+        <title>Same goes for live stream, #kodm.</title>
+        <content type="html">Same goes for live stream, &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;.</content>
+        <updated>2012-03-15T13:38:33Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1220105925/triplingual_avatar_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://sites.google.com/site/yorufukurou/"
+            rel="nofollow"&gt;YoruFukurou&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>triplingual (Trip Kirkpatrick)</name>
+            <uri>http://twitter.com/triplingual</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180286005809643520</id>
+        <published>2012-03-15T13:35:07Z</published>
+        <link type="text/html" href="http://twitter.com/triplingual/statuses/180286005809643520"
+            rel="alternate"/>
+        <title>Communities with basic agreement on data units? None. Is there agreement about that
+            characterization? No. #kodm</title>
+        <content type="html">Communities with basic agreement on data units? None. Is there
+            agreement about that characterization? No. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T13:35:07Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1220105925/triplingual_avatar_normal.jpg"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://sites.google.com/site/yorufukurou/"
+            rel="nofollow"&gt;YoruFukurou&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>triplingual (Trip Kirkpatrick)</name>
+            <uri>http://twitter.com/triplingual</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180282915643600897</id>
+        <published>2012-03-15T13:22:51Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180282915643600897"
+            rel="alternate"/>
+        <title>@knoxdw Bringing up the politics of workflow, especially when scholars do their own
+            modeling 'in the wild' and then it rots in attics #kodm</title>
+        <content type="html">@&lt;a class=" " href="http://twitter.com/knoxdw"&gt;knoxdw&lt;/a&gt;
+            Bringing up the politics of workflow, especially when scholars do their own modeling 'in
+            the wild' and then it rots in attics &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T13:22:51Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180282192553975809</id>
+        <published>2012-03-15T13:19:58Z</published>
+        <link type="text/html" href="http://twitter.com/jean_bauer/statuses/180282192553975809"
+            rel="alternate"/>
+        <title>FotisJannidis"When we talk about raw data we are talking about the social
+            construction of the basic units of our information(ex. book)"#kodm</title>
+        <content type="html">FotisJannidis"When we talk about raw data we are talking about the
+            social construction of the basic units of our information(ex. book)"&lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T13:19:58Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/778729771/DSC_0406_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>jean_bauer (Jean Bauer)</name>
+            <uri>http://twitter.com/jean_bauer</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180281985611210752</id>
+        <published>2012-03-15T13:19:09Z</published>
+        <link type="text/html" href="http://twitter.com/karikraus/statuses/180281985611210752"
+            rel="alternate"/>
+        <title>Opening discussion: something like a supposedly "raw" digitization of a page of a
+            book already a model, already a social construction. #kodm</title>
+        <content type="html">Opening discussion: something like a supposedly "raw" digitization of a
+            page of a book already a model, already a social construction. &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T13:19:09Z</updated>
+        <link type="image/png"
+            href="http://a0.twimg.com/profile_images/1726465888/karik2_normal.jpg" rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.tweetdeck.com"
+            rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>karikraus (Kari Kraus)</name>
+            <uri>http://twitter.com/karikraus</uri>
+        </author>
+    </entry>
+    <entry>
+        <id>tag:search.twitter.com,2005:180281329085186048</id>
+        <published>2012-03-15T13:16:32Z</published>
+        <link type="text/html" href="http://twitter.com/spellboundblog/statuses/180281329085186048"
+            rel="alternate"/>
+        <title>MT @trevormunoz Day 2 of Knowledge Organization &amp; Data Modeling Wkshp kicks off
+            with some discussion. Livestream: http://t.co/QcF6LHOn #kodm</title>
+        <content type="html">MT @&lt;a class=" "
+            href="http://twitter.com/trevormunoz"&gt;trevormunoz&lt;/a&gt; Day 2 of Knowledge
+            Organization &amp; Data Modeling Wkshp kicks off with some discussion. Livestream: &lt;a
+            href="http://t.co/QcF6LHOn"&gt;http://t.co/QcF6LHOn&lt;/a&gt; &lt;em&gt;&lt;a
+            href="http://search.twitter.com/search?q=%23kodm" title="#kodm" class="
+            "&gt;#kodm&lt;/a&gt;&lt;/em&gt;</content>
+        <updated>2012-03-15T13:16:32Z</updated>
+        <link type="image/png" href="http://a0.twimg.com/profile_images/56304400/sbb_normal.PNG"
+            rel="image"/>
+        <twitter:geo/>
+        <twitter:metadata>
+            <twitter:result_type>recent</twitter:result_type>
+        </twitter:metadata>
+        <twitter:source>&lt;a href="http://www.htc.com" rel="nofollow"&gt; HTC
+            Peep&lt;/a&gt;</twitter:source>
+        <twitter:lang>en</twitter:lang>
+        <author>
+            <name>spellboundblog (Spellbound Blog)</name>
+            <uri>http://twitter.com/spellboundblog</uri>
+        </author>
+    </entry>
+</feed>
